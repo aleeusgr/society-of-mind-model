@@ -1,5 +1,5 @@
 # society-of-mind-model
-a model inspired by Society of Mind using is @simonw/llm 
+a model inspired by [Society of Mind](https://github.com/ttn114/societyofmind) using is @simonw/llm 
 
 # Installation
 The program depends on https://github.com/simonw/llm, make sure it is installed.
