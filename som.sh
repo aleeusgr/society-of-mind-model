@@ -52,7 +52,7 @@ while true; do
     cat "$MEM_FILE"
     echo "-----------------------------"
     echo "Using model: $MODEL"
-    echo "System prompt: $SYSTEM_PROMPT"
+    # echo "System prompt: $SYSTEM_PROMPT"
     echo "Interrupt after: $INTERRUPT_AFTER seconds"
     echo "-----------------------------"
 
